@@ -1,0 +1,11 @@
+#upper-data-img{
+    height: 200px;
+    width: 150px;
+}
+.container{
+    text-align: center;
+    width: 500px;
+}
+.upper-data,.lower-data{
+    border: 1px dashed black;
+}
